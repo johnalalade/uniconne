@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/uniconne/static/css/main.778fd273.chunk.css",
+    "main.js": "/uniconne/static/js/main.bde1e0c1.chunk.js",
+    "main.js.map": "/uniconne/static/js/main.bde1e0c1.chunk.js.map",
+    "runtime-main.js": "/uniconne/static/js/runtime-main.8627589b.js",
+    "runtime-main.js.map": "/uniconne/static/js/runtime-main.8627589b.js.map",
+    "static/css/2.41fc952c.chunk.css": "/uniconne/static/css/2.41fc952c.chunk.css",
+    "static/js/2.9c70d3bd.chunk.js": "/uniconne/static/js/2.9c70d3bd.chunk.js",
+    "static/js/2.9c70d3bd.chunk.js.map": "/uniconne/static/js/2.9c70d3bd.chunk.js.map",
+    "index.html": "/uniconne/index.html",
+    "precache-manifest.779746bb749b48601d0238aa4b991763.js": "/uniconne/precache-manifest.779746bb749b48601d0238aa4b991763.js",
+    "service-worker.js": "/uniconne/service-worker.js",
+    "static/css/2.41fc952c.chunk.css.map": "/uniconne/static/css/2.41fc952c.chunk.css.map",
+    "static/css/main.778fd273.chunk.css.map": "/uniconne/static/css/main.778fd273.chunk.css.map",
+    "static/js/2.9c70d3bd.chunk.js.LICENSE.txt": "/uniconne/static/js/2.9c70d3bd.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/uniconne/static/media/oau-bg.a4c35a7b.jpg",
+    "static/media/oau-logo.jpg": "/uniconne/static/media/oau-logo.003926ca.jpg",
+    "static/media/oau-uniconne.jpg": "/uniconne/static/media/oau-uniconne.f78f56c7.jpg",
+    "static/media/uniconne-logo.jpg": "/uniconne/static/media/uniconne-logo.268275ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8627589b.js",
+    "static/css/2.41fc952c.chunk.css",
+    "static/js/2.9c70d3bd.chunk.js",
+    "static/css/main.778fd273.chunk.css",
+    "static/js/main.bde1e0c1.chunk.js"
+  ]
+}
